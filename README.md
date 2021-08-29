@@ -1,5 +1,5 @@
 # automationpractice
-Webdriver IO Cucumber - Automation Prcatice
+Webdriver IO Cucumber - Automation Practice
 This repository contains a collection of test cases webdriverIO-v7 (Selenium - Node.js/JavaScript) projects and libraries using the Cucumber (v7.9.0) BDD framework. It uses the chromedriver NPM package that wraps the ChromeDriver.
 
 # Installation
